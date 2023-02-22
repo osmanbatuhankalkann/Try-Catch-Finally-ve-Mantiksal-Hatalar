@@ -1,0 +1,15 @@
+C:\Users\batua\OneDrive\Belgeler\GitHub\Try-Catch-Finally-ve-Mantiksal-Hatalar\bin\Debug\net7.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.exe
+C:\Users\batua\OneDrive\Belgeler\GitHub\Try-Catch-Finally-ve-Mantiksal-Hatalar\bin\Debug\net7.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.deps.json
+C:\Users\batua\OneDrive\Belgeler\GitHub\Try-Catch-Finally-ve-Mantiksal-Hatalar\bin\Debug\net7.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.runtimeconfig.json
+C:\Users\batua\OneDrive\Belgeler\GitHub\Try-Catch-Finally-ve-Mantiksal-Hatalar\bin\Debug\net7.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.dll
+C:\Users\batua\OneDrive\Belgeler\GitHub\Try-Catch-Finally-ve-Mantiksal-Hatalar\bin\Debug\net7.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.pdb
+C:\Users\batua\OneDrive\Belgeler\GitHub\Try-Catch-Finally-ve-Mantiksal-Hatalar\obj\Debug\net7.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.csproj.AssemblyReference.cache
+C:\Users\batua\OneDrive\Belgeler\GitHub\Try-Catch-Finally-ve-Mantiksal-Hatalar\obj\Debug\net7.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batua\OneDrive\Belgeler\GitHub\Try-Catch-Finally-ve-Mantiksal-Hatalar\obj\Debug\net7.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.AssemblyInfoInputs.cache
+C:\Users\batua\OneDrive\Belgeler\GitHub\Try-Catch-Finally-ve-Mantiksal-Hatalar\obj\Debug\net7.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.AssemblyInfo.cs
+C:\Users\batua\OneDrive\Belgeler\GitHub\Try-Catch-Finally-ve-Mantiksal-Hatalar\obj\Debug\net7.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.csproj.CoreCompileInputs.cache
+C:\Users\batua\OneDrive\Belgeler\GitHub\Try-Catch-Finally-ve-Mantiksal-Hatalar\obj\Debug\net7.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.dll
+C:\Users\batua\OneDrive\Belgeler\GitHub\Try-Catch-Finally-ve-Mantiksal-Hatalar\obj\Debug\net7.0\refint\Try-Catch-Finally-ve-Mantiksal-Hatalar.dll
+C:\Users\batua\OneDrive\Belgeler\GitHub\Try-Catch-Finally-ve-Mantiksal-Hatalar\obj\Debug\net7.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.pdb
+C:\Users\batua\OneDrive\Belgeler\GitHub\Try-Catch-Finally-ve-Mantiksal-Hatalar\obj\Debug\net7.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.genruntimeconfig.cache
+C:\Users\batua\OneDrive\Belgeler\GitHub\Try-Catch-Finally-ve-Mantiksal-Hatalar\obj\Debug\net7.0\ref\Try-Catch-Finally-ve-Mantiksal-Hatalar.dll
